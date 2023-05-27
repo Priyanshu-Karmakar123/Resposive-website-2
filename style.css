@@ -44,7 +44,8 @@ footer {
 
 @media(max-width:680px){
   .logo{
-    height: 50px;
+    height: 40px;
+    margin:0;
   }
   
   h1{
